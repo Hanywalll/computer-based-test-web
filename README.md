@@ -1,4 +1,4 @@
-# 🎓 Online Exam System
+# 🎓 Computer-Based Test (CBT) Web System
 
 Sistem ujian online berbasis web yang modern, aman, dan responsif. Dibangun menggunakan **CodeIgniter 4**, **Bootstrap 5**, dan **MySQL** dengan dukungan timer server-side, auto-save jawaban, monitoring peserta secara real-time, serta mekanisme pemulihan koneksi yang menjaga integritas data selama ujian berlangsung.
 
@@ -6,7 +6,7 @@ Sistem ujian online berbasis web yang modern, aman, dan responsif. Dibangun meng
 
 ## 🔗 Links
 
-* Repository: https://github.com/Hanywalll/demo_web_ujian
+* Repository: https://github.com/Hanywalll/computer-based-test-web
 * Dokumentasi Tangkapan Layar: https://drive.google.com/drive/folders/1jyIg9MB_9ZzqtyJqRJu0oFBZ16oII-da
 * Database SQL: tersedia pada folder `database/demowebujian.sql`
 
@@ -116,7 +116,7 @@ Halaman review menampilkan nilai, statistik jawaban, serta detail jawaban pesert
 
 ---
 
-## 👤 Demo Accounts
+## 👤 Default Accounts
 
 > Akun berikut otomatis tersedia setelah mengimpor file `database/demowebujian.sql`
 
@@ -128,7 +128,7 @@ Halaman review menampilkan nilai, statistik jawaban, serta detail jawaban pesert
 
 ---
 
-## ℹ️ Penggunaan Demo Account
+## ℹ️ Panduan Penggunaan Akun
 
 Untuk menguji fitur Admin dan User secara bersamaan, gunakan salah satu metode berikut:
 
@@ -187,8 +187,8 @@ fileinfo
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Hanywalll/demo_web_ujian.git
-cd demo_web_ujian
+git clone https://github.com/Hanywalll/computer-based-test-web.git
+cd computer-based-test-web
 ```
 
 ### 2. Install Dependencies
@@ -304,7 +304,7 @@ http://localhost:8080
 ## 📁 Project Structure
 
 ```text
-demo_web_ujian/
+computer-based-test-web/
 ├── app/
 │   ├── Config/
 │   ├── Controllers/
